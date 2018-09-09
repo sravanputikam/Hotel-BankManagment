@@ -1,5 +1,6 @@
 /*SRAVAN PUTIKAM
   Hotel and Bank Management System
+  High School Final Project
 */
 #include<conio.h>
 #include<string.h>
